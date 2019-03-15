@@ -1,6 +1,6 @@
 # Translate a latin book
 
-This is a test to transklate a latin book online
+This is a test to translate a latin book online
 
 ## Explanation
 
